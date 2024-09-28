@@ -17,4 +17,4 @@ yarn parcel src/index.html
 Running these commands will run a local webserver with Parcel and hot reloading
 enabled.
 
-![Screenshot](screenshot.png)
+[![Screenshot](screenshot.png)](https://arlorean.github.io/alacrity-demo-project/)
